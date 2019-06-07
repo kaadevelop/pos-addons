@@ -21,7 +21,7 @@ Maintainers
 
       To get a guaranteed support you are kindly requested to purchase the module at `odoo apps store <https://apps.odoo.com/apps/modules/12.0/pos_mobile/>`__.
 
-      Thank you for understanding!
+      Thank for understanding!
 
       `IT-Projects Team <https://www.it-projects.info/team>`__
 
