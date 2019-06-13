@@ -41,4 +41,7 @@ after_success:
   - travis_after_tests_success
 
 notifications:
-  email: false
+  email:
+    recipients:
+      - oleg88@rubakov@gmail.com
+    on_failure: change
